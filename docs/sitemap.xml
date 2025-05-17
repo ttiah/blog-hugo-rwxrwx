@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ttiah.github.io/blog-hugo-rwxrwx/</loc>
+    <loc>https://rwxrwx.com/categories/</loc>
   </url><url>
-    <loc>https://ttiah.github.io/blog-hugo-rwxrwx/categories/</loc>
+    <loc>https://rwxrwx.com/tags/</loc>
   </url><url>
-    <loc>https://ttiah.github.io/blog-hugo-rwxrwx/tags/</loc>
+    <loc>https://rwxrwx.com/</loc>
   </url>
 </urlset>
