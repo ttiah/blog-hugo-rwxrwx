@@ -59,8 +59,9 @@ weight = 3
   mainSection = "posts" # your main section
   mainSectionTitle = "Blog" # 메인섹션 타이틀 변경
   showAllPostsOnHomePage = false # default
-  postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
+  postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = true # show tags overview by default.
+  tocInline = true # 블로그 게시물에 목차를 탐색 메뉴의 일부로 표시하지 않고 인라인으로 표시합니다.
   showProjectsList = false # show projects list by default (if projects data file exists).
   projectsUrl = "https://github.com/gohugoio" # title link for projects list
 
